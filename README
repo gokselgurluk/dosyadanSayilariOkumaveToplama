@@ -1,0 +1,13 @@
+Soru: Aşağıda verilen bir metin dosyasındaki (.txt) tüm sayıları okuyan ve bu sayıların toplamını döndüren ve ekrana yazdıran bir Java programı yazınız. Dosyada sadece satır başına bir tam sayı bulunacaktır.
+
+
+Dosya içeriği :
+
+
+5
+10
+20
+12
+33
+
+Programınızın çıktısı 80 olmalıdır.
